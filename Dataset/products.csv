@@ -1,0 +1,501 @@
+product_id,product_name,category,unit_price,stock
+20001,Gaming Mouse,Gaming,23149.63,237
+20002,Gaming Keyboard,Gaming,22300.56,269
+20003,Mobile Charger,Mobile,67029.82,167
+20004,External HDD,Office,6403.28,329
+20005,Smart TV,Electronics,13045.38,148
+20006,Mixer,Home Appliances,3534.14,348
+20007,Webcam,Accessories,9033.05,53
+20008,Earbuds,Mobile,51278.59,368
+20009,Camera,Electronics,10655.71,484
+20010,Gaming Headset,Gaming,46150.46,18
+20011,Laptop,Electronics,50954.17,219
+20012,Camera,Electronics,42234.29,419
+20013,Desk Lamp,Office,12939.3,53
+20014,Gaming Headset,Gaming,53066.08,164
+20015,Earbuds,Mobile,60382.68,407
+20016,Smartphone,Mobile,35306.55,478
+20017,Game Controller,Gaming,23627.97,285
+20018,Power Bank,Accessories,7746.17,366
+20019,Earbuds,Mobile,6506.33,349
+20020,Phone Case,Mobile,72309.85,216
+20021,Mouse,Accessories,8509.16,481
+20022,Keyboard,Accessories,2733.06,66
+20023,Earbuds,Mobile,22697.97,377
+20024,Phone Case,Mobile,6302.31,257
+20025,Smartwatch,Mobile,4074.84,15
+20026,Power Bank,Accessories,6498.05,404
+20027,Earbuds,Mobile,69505.48,420
+20028,Tablet,Electronics,10342.53,324
+20029,Smart TV,Electronics,71292.57,191
+20030,Mouse,Accessories,3459.97,59
+20031,Webcam,Accessories,6577.7,229
+20032,Headphones,Accessories,4918.79,22
+20033,Mixer,Home Appliances,9864.28,487
+20034,Webcam,Accessories,6519.57,368
+20035,Mixer,Home Appliances,6929.32,26
+20036,Keyboard,Accessories,6771.67,400
+20037,Game Controller,Gaming,45403.68,281
+20038,SSD,Office,2838.16,355
+20039,Earbuds,Mobile,44505.15,93
+20040,Phone Case,Mobile,31181.61,27
+20041,Printer,Electronics,29092.37,185
+20042,Game Controller,Gaming,19184.87,222
+20043,Desk Lamp,Office,7715.25,68
+20044,Mobile Charger,Mobile,31209.42,238
+20045,Earbuds,Mobile,12203.95,125
+20046,Coffee Maker,Home Appliances,17953.8,61
+20047,Smart TV,Electronics,60160.55,228
+20048,Coffee Maker,Home Appliances,17506.74,30
+20049,Vacuum Cleaner,Home Appliances,19993.72,152
+20050,Smart TV,Electronics,15716.1,17
+20051,External HDD,Office,12996.32,487
+20052,Tablet,Electronics,55929.1,394
+20053,Power Bank,Accessories,2418.21,40
+20054,Mixer,Home Appliances,14664.53,308
+20055,Keyboard,Accessories,4048.14,369
+20056,Tablet,Electronics,57939.77,20
+20057,Laptop,Electronics,16824.2,218
+20058,Earbuds,Mobile,49609.4,219
+20059,Desk Lamp,Office,16045.55,245
+20060,Mixer,Home Appliances,8389.23,137
+20061,Gaming Mouse,Gaming,5414.71,298
+20062,Tablet,Electronics,60565.45,323
+20063,Smartwatch,Mobile,72415.98,476
+20064,Gaming Keyboard,Gaming,55821.47,171
+20065,Mixer,Home Appliances,14781.18,220
+20066,Power Bank,Accessories,6123.24,130
+20067,Coffee Maker,Home Appliances,3376.57,80
+20068,Office Chair,Office,10012.82,465
+20069,Console,Gaming,31285.42,23
+20070,Smartwatch,Mobile,76244.4,280
+20071,Console,Gaming,59162.64,57
+20072,Headphones,Accessories,2276.04,289
+20073,Smartwatch,Mobile,3546.17,21
+20074,Headphones,Accessories,9138.71,169
+20075,Smart TV,Electronics,86654.71,207
+20076,Mixer,Home Appliances,24939.46,402
+20077,External HDD,Office,23515.41,417
+20078,Camera,Electronics,51364.35,85
+20079,Vacuum Cleaner,Home Appliances,3727.99,395
+20080,Webcam,Accessories,5602.31,138
+20081,SSD,Office,1736.62,31
+20082,Keyboard,Accessories,9837.71,384
+20083,Mobile Charger,Mobile,67041.95,341
+20084,Headphones,Accessories,7196.16,389
+20085,Game Controller,Gaming,25176.19,104
+20086,Mixer,Home Appliances,2712.89,495
+20087,Tablet,Electronics,84059.77,432
+20088,Game Controller,Gaming,49973.71,329
+20089,Smartwatch,Mobile,8573.69,88
+20090,Air Fryer,Home Appliances,17068.96,254
+20091,Phone Case,Mobile,54374.24,275
+20092,Iron,Home Appliances,21596.33,403
+20093,Iron,Home Appliances,22913.99,123
+20094,SSD,Office,3813.73,18
+20095,Gaming Keyboard,Gaming,30025.05,225
+20096,Tablet,Electronics,70256.1,35
+20097,Console,Gaming,13274.47,435
+20098,Smartwatch,Mobile,2139.43,466
+20099,Mouse,Accessories,7759.0,311
+20100,Phone Case,Mobile,66603.48,87
+20101,Mixer,Home Appliances,6633.52,132
+20102,Webcam,Accessories,1493.77,341
+20103,Game Controller,Gaming,11397.7,406
+20104,Smart TV,Electronics,77336.07,66
+20105,USB Hub,Accessories,6303.3,47
+20106,Power Bank,Accessories,9879.3,332
+20107,Office Chair,Office,17658.79,276
+20108,Gaming Keyboard,Gaming,16797.43,154
+20109,Keyboard,Accessories,2247.73,107
+20110,Console,Gaming,30516.08,388
+20111,Smart TV,Electronics,62188.14,327
+20112,Mouse,Accessories,1086.07,460
+20113,Monitor,Electronics,39835.11,309
+20114,Smartphone,Mobile,21006.76,483
+20115,Headphones,Accessories,3792.2,154
+20116,Iron,Home Appliances,14064.2,362
+20117,Office Chair,Office,5111.75,468
+20118,Router,Office,10314.07,155
+20119,External HDD,Office,13411.48,101
+20120,Laptop,Electronics,56209.34,40
+20121,Console,Gaming,56463.12,486
+20122,SSD,Office,2297.99,240
+20123,Smartwatch,Mobile,27182.88,137
+20124,Webcam,Accessories,6389.79,289
+20125,USB Hub,Accessories,4945.21,307
+20126,Mixer,Home Appliances,22616.54,278
+20127,Monitor,Electronics,8020.46,68
+20128,Webcam,Accessories,8184.89,60
+20129,USB Hub,Accessories,823.29,14
+20130,Mixer,Home Appliances,17338.99,418
+20131,Vacuum Cleaner,Home Appliances,14138.1,400
+20132,Console,Gaming,51883.06,478
+20133,Gaming Keyboard,Gaming,5706.25,499
+20134,Console,Gaming,7974.42,259
+20135,USB Hub,Accessories,3167.92,431
+20136,Iron,Home Appliances,13418.66,181
+20137,Mobile Charger,Mobile,18946.72,405
+20138,Laptop,Electronics,34423.63,352
+20139,Gaming Headset,Gaming,44522.93,45
+20140,Smartwatch,Mobile,50395.68,364
+20141,SSD,Office,29886.14,444
+20142,Power Bank,Accessories,1813.48,32
+20143,Printer,Electronics,69337.91,351
+20144,Headphones,Accessories,5495.55,452
+20145,Smartwatch,Mobile,52478.7,42
+20146,Gaming Keyboard,Gaming,52006.39,226
+20147,Mobile Charger,Mobile,72379.47,379
+20148,Earbuds,Mobile,6563.78,209
+20149,USB Hub,Accessories,4138.83,363
+20150,Game Controller,Gaming,53772.98,371
+20151,USB Hub,Accessories,8066.4,79
+20152,Gaming Mouse,Gaming,25498.81,441
+20153,Iron,Home Appliances,11803.03,327
+20154,Coffee Maker,Home Appliances,13085.12,163
+20155,Iron,Home Appliances,3723.56,370
+20156,Air Fryer,Home Appliances,6552.13,139
+20157,Air Fryer,Home Appliances,4353.19,59
+20158,External HDD,Office,2406.85,275
+20159,USB Hub,Accessories,8492.07,77
+20160,Smartwatch,Mobile,68434.79,293
+20161,Vacuum Cleaner,Home Appliances,10154.15,87
+20162,Desk Lamp,Office,18139.81,102
+20163,Desk Lamp,Office,22553.39,490
+20164,Webcam,Accessories,5667.77,383
+20165,Keyboard,Accessories,769.2,10
+20166,Gaming Mouse,Gaming,57217.1,96
+20167,Game Controller,Gaming,17070.06,373
+20168,Air Fryer,Home Appliances,3462.81,321
+20169,Camera,Electronics,89409.02,311
+20170,Gaming Headset,Gaming,40566.33,143
+20171,Smart TV,Electronics,67588.7,26
+20172,Mobile Charger,Mobile,76416.71,288
+20173,Gaming Mouse,Gaming,42146.84,163
+20174,Smartphone,Mobile,63705.6,92
+20175,Office Chair,Office,22495.2,367
+20176,Router,Office,27448.58,158
+20177,Smartwatch,Mobile,28276.6,37
+20178,External HDD,Office,11956.29,68
+20179,Smartwatch,Mobile,40733.22,194
+20180,Camera,Electronics,59510.57,154
+20181,Mixer,Home Appliances,3953.48,222
+20182,Mobile Charger,Mobile,70833.73,66
+20183,Gaming Headset,Gaming,13920.81,180
+20184,Gaming Headset,Gaming,49813.01,92
+20185,Printer,Electronics,71730.78,342
+20186,Smartphone,Mobile,60665.97,386
+20187,Desk Lamp,Office,18470.39,288
+20188,Mixer,Home Appliances,23855.17,251
+20189,Game Controller,Gaming,9506.71,459
+20190,Air Fryer,Home Appliances,1765.82,330
+20191,Iron,Home Appliances,11434.6,323
+20192,Headphones,Accessories,2104.38,97
+20193,Air Fryer,Home Appliances,13536.82,25
+20194,Smartwatch,Mobile,66109.47,109
+20195,Webcam,Accessories,4460.83,43
+20196,Camera,Electronics,43015.22,440
+20197,Router,Office,19387.52,201
+20198,Webcam,Accessories,5709.53,431
+20199,Vacuum Cleaner,Home Appliances,13355.43,414
+20200,SSD,Office,24722.73,406
+20201,Mixer,Home Appliances,3531.72,199
+20202,Air Fryer,Home Appliances,17667.6,378
+20203,Keyboard,Accessories,8822.21,70
+20204,Printer,Electronics,23854.66,384
+20205,Air Fryer,Home Appliances,1765.69,191
+20206,Smartphone,Mobile,21524.13,53
+20207,Power Bank,Accessories,979.89,362
+20208,Earbuds,Mobile,39933.16,150
+20209,Phone Case,Mobile,70158.44,188
+20210,Mixer,Home Appliances,16884.55,334
+20211,Earbuds,Mobile,46584.15,12
+20212,Office Chair,Office,20590.64,202
+20213,Tablet,Electronics,16695.67,391
+20214,Mixer,Home Appliances,22425.15,106
+20215,Earbuds,Mobile,72763.18,328
+20216,Laptop,Electronics,69966.34,389
+20217,Laptop,Electronics,6266.23,414
+20218,Desk Lamp,Office,2192.54,266
+20219,External HDD,Office,22252.73,497
+20220,Gaming Headset,Gaming,45843.65,498
+20221,Smart TV,Electronics,22247.55,257
+20222,Coffee Maker,Home Appliances,23674.65,232
+20223,Router,Office,10229.95,316
+20224,Coffee Maker,Home Appliances,6806.8,333
+20225,Smart TV,Electronics,33425.01,106
+20226,Desk Lamp,Office,8153.83,84
+20227,Console,Gaming,57878.41,122
+20228,Laptop,Electronics,70917.06,110
+20229,Mixer,Home Appliances,10472.94,150
+20230,Gaming Headset,Gaming,30639.16,427
+20231,Smart TV,Electronics,36787.31,450
+20232,SSD,Office,2822.88,38
+20233,Mobile Charger,Mobile,41120.43,111
+20234,Printer,Electronics,88723.86,90
+20235,Webcam,Accessories,3081.94,381
+20236,Coffee Maker,Home Appliances,19188.67,11
+20237,External HDD,Office,28774.03,449
+20238,Desk Lamp,Office,2346.5,71
+20239,Mouse,Accessories,8050.98,260
+20240,Smartwatch,Mobile,33006.9,119
+20241,Gaming Headset,Gaming,22408.69,70
+20242,Desk Lamp,Office,16510.85,348
+20243,Gaming Headset,Gaming,38910.86,265
+20244,Console,Gaming,2741.98,350
+20245,Game Controller,Gaming,28649.26,223
+20246,Mobile Charger,Mobile,56587.73,73
+20247,Smart TV,Electronics,67521.62,180
+20248,Keyboard,Accessories,6707.73,173
+20249,Coffee Maker,Home Appliances,6612.26,82
+20250,Headphones,Accessories,2051.89,486
+20251,Desk Lamp,Office,16747.38,325
+20252,USB Hub,Accessories,5518.48,191
+20253,Mixer,Home Appliances,20678.15,162
+20254,Monitor,Electronics,48972.96,245
+20255,Router,Office,12773.76,323
+20256,Printer,Electronics,57252.68,88
+20257,SSD,Office,11593.33,497
+20258,Iron,Home Appliances,9204.59,96
+20259,Tablet,Electronics,78491.23,451
+20260,Iron,Home Appliances,3742.84,284
+20261,Iron,Home Appliances,10568.75,418
+20262,Earbuds,Mobile,57010.97,158
+20263,Headphones,Accessories,4878.61,143
+20264,External HDD,Office,2420.17,416
+20265,Gaming Headset,Gaming,48402.25,155
+20266,Gaming Headset,Gaming,58721.88,301
+20267,Smart TV,Electronics,86113.1,359
+20268,Mixer,Home Appliances,21597.52,216
+20269,Webcam,Accessories,9587.31,267
+20270,Office Chair,Office,29236.5,439
+20271,Smart TV,Electronics,85999.76,229
+20272,Coffee Maker,Home Appliances,13956.93,46
+20273,Smartwatch,Mobile,74249.29,143
+20274,Console,Gaming,16265.66,297
+20275,Gaming Keyboard,Gaming,35888.94,292
+20276,Desk Lamp,Office,23613.7,444
+20277,Office Chair,Office,28977.63,20
+20278,Router,Office,24645.96,461
+20279,Printer,Electronics,25317.54,18
+20280,External HDD,Office,21577.24,473
+20281,Camera,Electronics,31443.43,275
+20282,USB Hub,Accessories,7179.07,135
+20283,Vacuum Cleaner,Home Appliances,22406.36,108
+20284,Game Controller,Gaming,23484.85,106
+20285,Smart TV,Electronics,35457.48,145
+20286,Iron,Home Appliances,11817.08,456
+20287,Smartphone,Mobile,2790.17,16
+20288,SSD,Office,1198.26,76
+20289,Console,Gaming,36816.97,376
+20290,Smartwatch,Mobile,7416.17,369
+20291,Laptop,Electronics,36790.04,333
+20292,External HDD,Office,9201.12,451
+20293,Mixer,Home Appliances,16657.92,76
+20294,Keyboard,Accessories,8607.14,277
+20295,Coffee Maker,Home Appliances,20284.71,487
+20296,Laptop,Electronics,48535.51,495
+20297,Headphones,Accessories,4261.36,266
+20298,Headphones,Accessories,9022.71,27
+20299,Office Chair,Office,17314.01,190
+20300,Mixer,Home Appliances,6058.2,221
+20301,Smart TV,Electronics,64561.33,391
+20302,Phone Case,Mobile,53718.24,452
+20303,Phone Case,Mobile,42011.85,15
+20304,USB Hub,Accessories,662.59,176
+20305,External HDD,Office,10953.6,390
+20306,Mobile Charger,Mobile,34373.54,361
+20307,Headphones,Accessories,7902.08,13
+20308,Coffee Maker,Home Appliances,7148.24,102
+20309,Earbuds,Mobile,16308.48,221
+20310,Game Controller,Gaming,14613.25,483
+20311,Smart TV,Electronics,21495.21,365
+20312,Console,Gaming,58375.04,271
+20313,Mixer,Home Appliances,10506.86,408
+20314,Gaming Headset,Gaming,9749.06,178
+20315,Iron,Home Appliances,17440.98,395
+20316,Iron,Home Appliances,1667.5,414
+20317,Office Chair,Office,7614.01,398
+20318,Gaming Headset,Gaming,18277.17,260
+20319,Mouse,Accessories,2873.43,480
+20320,Vacuum Cleaner,Home Appliances,16632.2,148
+20321,Console,Gaming,21065.61,425
+20322,Power Bank,Accessories,4369.14,30
+20323,Camera,Electronics,55133.15,74
+20324,Mouse,Accessories,3727.5,488
+20325,Game Controller,Gaming,51351.3,150
+20326,Gaming Headset,Gaming,28476.01,335
+20327,Keyboard,Accessories,3726.26,385
+20328,Webcam,Accessories,9002.62,265
+20329,Smartphone,Mobile,62105.85,154
+20330,Vacuum Cleaner,Home Appliances,10507.44,479
+20331,Gaming Mouse,Gaming,6973.19,333
+20332,Vacuum Cleaner,Home Appliances,8506.08,278
+20333,Iron,Home Appliances,19641.38,113
+20334,Laptop,Electronics,73508.12,464
+20335,Console,Gaming,16431.66,105
+20336,Coffee Maker,Home Appliances,19678.69,39
+20337,Tablet,Electronics,37718.25,19
+20338,Earbuds,Mobile,77945.08,21
+20339,Coffee Maker,Home Appliances,3783.87,379
+20340,Mixer,Home Appliances,10449.1,448
+20341,Earbuds,Mobile,38918.16,143
+20342,Gaming Mouse,Gaming,11524.39,358
+20343,Mouse,Accessories,1468.56,39
+20344,Earbuds,Mobile,25682.64,415
+20345,Headphones,Accessories,7266.93,297
+20346,Console,Gaming,32104.06,171
+20347,Power Bank,Accessories,2627.59,407
+20348,External HDD,Office,13508.74,186
+20349,Headphones,Accessories,5456.2,27
+20350,Earbuds,Mobile,22167.77,329
+20351,Air Fryer,Home Appliances,18818.69,54
+20352,Iron,Home Appliances,17151.56,399
+20353,Tablet,Electronics,58753.63,18
+20354,Mobile Charger,Mobile,20099.06,112
+20355,Console,Gaming,11963.12,243
+20356,Printer,Electronics,51522.87,301
+20357,Air Fryer,Home Appliances,24392.64,174
+20358,Air Fryer,Home Appliances,24980.62,314
+20359,Laptop,Electronics,59370.32,299
+20360,Smartphone,Mobile,56113.73,420
+20361,Router,Office,2657.85,480
+20362,Headphones,Accessories,9893.24,77
+20363,SSD,Office,21824.0,390
+20364,Office Chair,Office,9536.46,88
+20365,Office Chair,Office,6153.37,206
+20366,Smartphone,Mobile,69896.54,254
+20367,Desk Lamp,Office,26640.79,215
+20368,Headphones,Accessories,4668.24,224
+20369,Gaming Keyboard,Gaming,22853.33,78
+20370,Tablet,Electronics,56386.0,471
+20371,SSD,Office,10212.18,258
+20372,Desk Lamp,Office,9698.66,29
+20373,Printer,Electronics,13680.29,483
+20374,Camera,Electronics,73102.12,447
+20375,Gaming Mouse,Gaming,38106.16,146
+20376,Vacuum Cleaner,Home Appliances,5903.82,241
+20377,Gaming Keyboard,Gaming,22072.16,82
+20378,Coffee Maker,Home Appliances,8572.3,247
+20379,Smartwatch,Mobile,79113.37,152
+20380,USB Hub,Accessories,1141.81,392
+20381,Gaming Mouse,Gaming,58186.69,458
+20382,Mouse,Accessories,5063.16,118
+20383,Smart TV,Electronics,72624.76,298
+20384,Game Controller,Gaming,53057.35,229
+20385,Smartphone,Mobile,25518.24,441
+20386,Tablet,Electronics,88289.68,491
+20387,Smartphone,Mobile,68423.89,453
+20388,Smartphone,Mobile,2483.93,115
+20389,External HDD,Office,4767.59,222
+20390,Printer,Electronics,87396.47,326
+20391,Smartphone,Mobile,19560.26,430
+20392,Desk Lamp,Office,10022.97,165
+20393,Mixer,Home Appliances,6265.51,179
+20394,External HDD,Office,16288.57,458
+20395,Vacuum Cleaner,Home Appliances,12072.12,168
+20396,SSD,Office,9183.92,170
+20397,SSD,Office,15024.19,328
+20398,Mouse,Accessories,1337.35,366
+20399,Mouse,Accessories,1230.84,139
+20400,Tablet,Electronics,31345.15,125
+20401,Phone Case,Mobile,72944.03,326
+20402,Keyboard,Accessories,1518.89,34
+20403,Vacuum Cleaner,Home Appliances,1970.55,219
+20404,Headphones,Accessories,5710.01,427
+20405,Smart TV,Electronics,11404.47,231
+20406,Gaming Headset,Gaming,5226.97,338
+20407,Air Fryer,Home Appliances,10235.49,263
+20408,Game Controller,Gaming,11380.82,416
+20409,Vacuum Cleaner,Home Appliances,11740.61,458
+20410,Earbuds,Mobile,74927.52,195
+20411,Smartphone,Mobile,66565.85,152
+20412,Phone Case,Mobile,53454.05,485
+20413,Monitor,Electronics,84454.71,44
+20414,Webcam,Accessories,6373.65,162
+20415,Gaming Keyboard,Gaming,53657.74,325
+20416,Game Controller,Gaming,25074.94,413
+20417,Power Bank,Accessories,2499.6,395
+20418,Smart TV,Electronics,56303.91,16
+20419,Mouse,Accessories,9595.91,297
+20420,Office Chair,Office,12639.72,128
+20421,Office Chair,Office,18291.75,197
+20422,Mobile Charger,Mobile,66327.46,496
+20423,External HDD,Office,16205.5,487
+20424,Gaming Mouse,Gaming,6678.45,106
+20425,Mobile Charger,Mobile,17618.69,137
+20426,Console,Gaming,21403.87,335
+20427,Monitor,Electronics,57661.35,64
+20428,Air Fryer,Home Appliances,9935.58,12
+20429,Webcam,Accessories,3156.41,450
+20430,Coffee Maker,Home Appliances,4133.67,482
+20431,Game Controller,Gaming,48035.17,366
+20432,Webcam,Accessories,8294.53,33
+20433,Gaming Headset,Gaming,27250.58,381
+20434,Tablet,Electronics,31787.2,271
+20435,Earbuds,Mobile,39759.61,422
+20436,Headphones,Accessories,6728.2,407
+20437,Gaming Mouse,Gaming,52112.5,158
+20438,Office Chair,Office,22855.73,13
+20439,Desk Lamp,Office,14883.52,54
+20440,Gaming Headset,Gaming,15876.22,73
+20441,Coffee Maker,Home Appliances,24907.45,472
+20442,Mobile Charger,Mobile,70568.06,363
+20443,Camera,Electronics,64349.32,463
+20444,Smart TV,Electronics,74767.88,176
+20445,Gaming Keyboard,Gaming,58884.65,403
+20446,Laptop,Electronics,42874.89,77
+20447,Headphones,Accessories,5108.72,272
+20448,Printer,Electronics,58246.25,276
+20449,External HDD,Office,24819.43,416
+20450,Gaming Mouse,Gaming,23361.13,431
+20451,Headphones,Accessories,2344.21,367
+20452,Laptop,Electronics,85569.19,337
+20453,Router,Office,9305.74,384
+20454,Smartwatch,Mobile,49239.52,88
+20455,Coffee Maker,Home Appliances,14151.15,483
+20456,Laptop,Electronics,34404.16,197
+20457,External HDD,Office,17953.93,333
+20458,Mobile Charger,Mobile,77868.01,68
+20459,Earbuds,Mobile,7093.7,304
+20460,Desk Lamp,Office,21532.53,399
+20461,External HDD,Office,2425.19,358
+20462,Router,Office,21188.14,281
+20463,Iron,Home Appliances,5215.46,372
+20464,Console,Gaming,7905.15,116
+20465,Router,Office,1739.72,19
+20466,Gaming Headset,Gaming,4587.15,275
+20467,Phone Case,Mobile,21598.23,321
+20468,Vacuum Cleaner,Home Appliances,3584.54,137
+20469,Smartphone,Mobile,28766.22,55
+20470,Coffee Maker,Home Appliances,24690.27,373
+20471,Smartwatch,Mobile,41735.26,124
+20472,Keyboard,Accessories,7822.58,278
+20473,Webcam,Accessories,6921.15,466
+20474,Desk Lamp,Office,26990.6,127
+20475,Gaming Mouse,Gaming,44112.43,242
+20476,Smartwatch,Mobile,54610.59,12
+20477,Vacuum Cleaner,Home Appliances,16709.13,249
+20478,Printer,Electronics,70965.69,295
+20479,Power Bank,Accessories,6128.15,306
+20480,Power Bank,Accessories,7620.36,213
+20481,Earbuds,Mobile,33978.66,177
+20482,Camera,Electronics,76314.95,442
+20483,Gaming Headset,Gaming,9326.47,32
+20484,Gaming Headset,Gaming,35317.91,284
+20485,Gaming Headset,Gaming,51798.14,431
+20486,Router,Office,7842.46,489
+20487,Office Chair,Office,16764.15,334
+20488,Smartphone,Mobile,65208.45,428
+20489,Smart TV,Electronics,41944.27,57
+20490,Earbuds,Mobile,34083.17,36
+20491,Air Fryer,Home Appliances,5969.84,23
+20492,Printer,Electronics,40005.07,152
+20493,Vacuum Cleaner,Home Appliances,15684.91,90
+20494,Laptop,Electronics,74654.74,153
+20495,SSD,Office,21784.55,105
+20496,Gaming Mouse,Gaming,12642.21,254
+20497,Power Bank,Accessories,2682.37,287
+20498,Laptop,Electronics,12320.93,221
+20499,Tablet,Electronics,38068.6,219
+20500,Webcam,Accessories,4532.05,30

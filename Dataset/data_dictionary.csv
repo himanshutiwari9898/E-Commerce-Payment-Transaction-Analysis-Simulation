@@ -1,0 +1,9 @@
+table_name,column_name,key_type,description
+users,user_id,Primary Key,Unique customer identifier
+products,product_id,Primary Key,Unique product identifier
+orders,order_id,Primary Key,Unique order identifier
+orders,user_id,Foreign Key -> users.user_id,Customer who placed the order
+orders,product_id,Foreign Key -> products.product_id,Product purchased
+transactions,transaction_id,Primary Key,Unique transaction identifier
+transactions,order_id,Foreign Key -> orders.order_id,Order associated with transaction
+transactions,user_id,Foreign Key -> users.user_id,Customer associated with transaction
