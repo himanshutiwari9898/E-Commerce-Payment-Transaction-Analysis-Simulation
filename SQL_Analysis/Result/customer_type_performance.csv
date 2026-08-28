@@ -1,0 +1,4 @@
+customer_type,customers,total_revenue,avg_order_value
+Regular,2652,495735243.18,56843.85
+New,1397,258476535.27,57109.27
+Premium,717,131937048.18,55389.19

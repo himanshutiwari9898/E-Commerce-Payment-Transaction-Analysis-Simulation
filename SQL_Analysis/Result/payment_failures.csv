@@ -1,0 +1,6 @@
+payment_method,failed_transactions,failed_amount
+UPI,2008,116479990.66
+"Credit Card",964,57209759.38
+"Debit Card",808,46784942.59
+"Net Banking",523,27902765.37
+Wallet,367,18127364.83

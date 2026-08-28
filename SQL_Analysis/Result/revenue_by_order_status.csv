@@ -1,0 +1,5 @@
+order_status,total_orders,total_amount
+Completed,15629,886148826.63
+Cancelled,1598,90673453.48
+Returned,1613,88275042.87
+Pending,1160,63844420.97

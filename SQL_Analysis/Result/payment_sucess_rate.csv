@@ -1,0 +1,6 @@
+payment_method,total_transactions,successful_transactions,success_rate
+"Debit Card",3594,2412,67.11
+"Net Banking",2365,1579,66.77
+UPI,8407,5477,65.15
+Wallet,1598,1041,65.14
+"Credit Card",4036,2620,64.92

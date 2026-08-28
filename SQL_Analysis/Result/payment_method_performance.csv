@@ -1,0 +1,6 @@
+payment_method,total_transactions,total_amount,average_transaction
+UPI,8407,470226334.76,55932.71
+"Credit Card",4036,230054130.32,57000.53
+"Debit Card",3594,205205960.9,57096.82
+"Net Banking",2365,130804455.11,55308.44
+Wallet,1598,92650862.86,57979.26
